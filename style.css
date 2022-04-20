@@ -33,6 +33,7 @@ main {
     margin: 0 20px;
     padding: 1px 1px;
     line-height: 140%;
+    background-color: rgb(42, 42, 42, .5)
 }
 
 main p, ol, ul {
