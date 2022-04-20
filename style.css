@@ -6,13 +6,18 @@
     text-align: center;
 }
 
+header::after {
+    background-color: rgb(0, 63, 114, .5);
+}
 /*header box is smaller, centered, and blue*/
 header {
     text-shadow: 3px 3px 2px black;
     color: white;
-    background-color: #44a3f1;
+    background-color: rgb(68, 163, 241, .5);
     line-height: 80%;
-    margin: 0 50px;
+    margin: 30px 50px;
+    padding-bottom: 1px;
+    padding-top: 1px;
 }
 
 h1 {
